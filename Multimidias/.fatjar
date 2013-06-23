@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jun 23 16:56:47 GFT 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=rgb.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=manifest.txt
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
