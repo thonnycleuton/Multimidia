@@ -1,5 +1,5 @@
 #Fat Jar Configuration File
-#Sun Jun 23 16:56:47 GFT 2013
+#Sun Jun 23 22:04:34 GFT 2013
 onejar.license.required=true
 manifest.classpath=
 manifest.removesigners=true
@@ -10,5 +10,5 @@ manifest.mainclass=
 manifest.file=manifest.txt
 jarname.isextern=false
 onejar.expand=
-excludes=
+excludes=<po|Multimidias>~com/~thonnycleuton/~convolution/;<jar|jsminim.jar>;<jar|minim.jar>;<jar|minim-spi.jar>;<jar|mp3spi1.9.4.jar>;<jar|tritonus_aos.jar>;<jar|tritonus_share.jar>
 includes=
